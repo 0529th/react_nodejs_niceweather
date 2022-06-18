@@ -1,0 +1,108 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "img": "https://contents.sixshop.com/thumbnails/uploadedFiles/128335/product/image_1653458534057_1000.jpg",
+      "soldout": true,
+      "section": "Hat",
+      "title": "[Alfred] FRED PIGMENT CREWNECK (RED)",
+      "price": 155000
+    },
+    {
+      "id": 1,
+      "img": "https://contents.sixshop.com/thumbnails/uploadedFiles/128335/product/image_1653030817178_1000.jpg",
+      "soldout": false,
+      "section": "Lifestyle",
+      "title": "Thai hand-made dessert cutlery (knot-end)",
+      "price": 10000
+    },
+    {
+      "id": 2,
+      "img": "https://contents.sixshop.com/thumbnails/uploadedFiles/128335/product/image_1653876660020_1000.jpg",
+      "soldout": false,
+      "section": "Lifestyle",
+      "title": "[Nice Weather] SOJU GLASS",
+      "price": 4000
+    },
+    {
+      "id": 3,
+      "img": "https://contents.sixshop.com/thumbnails/uploadedFiles/128335/product/image_1653541854802_1000.jpg",
+      "soldout": false,
+      "section": "Lifestyle",
+      "title": "[Kitsch Kitchen] HOLA DOORMAT",
+      "price": 59000
+    },
+    {
+      "id": 4,
+      "img": "https://contents.sixshop.com/thumbnails/uploadedFiles/128335/product/image_1654851949053_1000.jpg",
+      "soldout": false,
+      "section": "Top",
+      "title": "SOLD OUT [Jayass Kiosk] SUPPORT LONG SLEEVE (WHITE)",
+      "price": 59000
+    },
+    {
+      "id": 5,
+      "img": "https://contents.sixshop.com/thumbnails/uploadedFiles/128335/product/image_1653295371558_1000.jpg",
+      "soldout": false,
+      "section": "Top",
+      "title": "[PAME66] MARIA PHOTO TEE (BLACK)",
+      "price": 590000
+    },
+    {
+      "id": 6,
+      "img": "https://contents.sixshop.com/thumbnails/uploadedFiles/128335/product/image_1653469489150_1000.png",
+      "soldout": false,
+      "section": "Lifestyle",
+      "title": "[Eding] MILKYWAY ENAMELWARE MUG 350ml",
+      "price": 19000
+    },
+    {
+      "id": 7,
+      "img": "https://contents.sixshop.com/thumbnails/uploadedFiles/128335/product/image_1653461574984_1000.jpg",
+      "soldout": false,
+      "section": "etc",
+      "title": "[Alfred] FRED PIGMENT JOGGER PANTS (RED)",
+      "price": 169000
+    },
+    {
+      "id": 8,
+      "img": "https://contents.sixshop.com/thumbnails/uploadedFiles/128335/product/image_1653038339030_1000.jpg",
+      "soldout": false,
+      "section": "Outer",
+      "title": "[Yinandyang] OG VARSITY JACKET (BLACK)",
+      "price": 720000
+    },
+    {
+      "id": 9,
+      "img": "https://contents.sixshop.com/thumbnails/uploadedFiles/128335/product/image_1653376143812_1000.jpg",
+      "soldout": true,
+      "section": "Top",
+      "title": "[Jayass Kiosk] YODA FOREVER TEE (NEON RED)",
+      "price": 49000
+    },
+    {
+      "id": 10,
+      "img": "https://contents.sixshop.com/thumbnails/uploadedFiles/128335/product/image_1653376278539_1000.jpg",
+      "soldout": false,
+      "section": "Top",
+      "title": "[Jayass Kiosk] YODA FOREVER TEE (SEA FOAM)",
+      "price": 49000
+    },
+    {
+      "id": 11,
+      "img": "https://contents.sixshop.com/thumbnails/uploadedFiles/128335/product/image_1653376019187_1000.jpg",
+      "soldout": true,
+      "section": "Top",
+      "title": "[Jayass Kiosk] YODA FOREVER TEE (BANANA)",
+      "price": 49000
+    },
+    {
+      "id": 12,
+      "img": "https://contents.sixshop.com/thumbnails/uploadedFiles/128335/product/image_1653375858848_1000.jpg",
+      "soldout": true,
+      "section": "Top",
+      "title": "[Jayass Kiosk] YODA FOREVER TEE (BLACK)",
+      "price": 49000
+    }
+  ]
+}
